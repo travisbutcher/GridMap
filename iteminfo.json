@@ -1,0 +1,54 @@
+{
+    "access": "public",
+    "accessInformation": null,
+    "advancedSettings": null,
+    "appCategories": [
+    ],
+    "avgRating": 0,
+    "banner": null,
+    "categories": [
+    ],
+    "commentsEnabled": true,
+    "created": 1613673334000,
+    "culture": "en-au",
+    "description": "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" font-family:'Avenir Next LT Pro'; font-size:14.5pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">This sample demonstrates how you can enable Location Display to display your current position on the map, as well as switch between different types of AutoPan Modes. </p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><a href=\"https://geonet.esri.com/groups/appstudio/blog/2016/12/06/how-to-describe-our-resources-in-terms-of-difficulty-complexity-and-time-to-digest\"><span style=\" text-decoration: underline; color:#0068da;\">Resource Level:</span></a>🍌 </p></body></html>",
+    "documentation": null,
+    "extent": [
+    ],
+    "groupDesignations": null,
+    "guid": null,
+    "industries": [
+    ],
+    "languages": [
+    ],
+    "largeThumbnail": null,
+    "licenseInfo": null,
+    "listed": false,
+    "modified": 1629442442000,
+    "numComments": 1,
+    "numRatings": 0,
+    "numViews": 265,
+    "orgId": "2U3NfasNQ9o9LkLt",
+    "properties": null,
+    "proxyFilter": null,
+    "scoreCompleteness": 80,
+    "screenshots": [
+    ],
+    "size": 76891,
+    "snippet": "This sample demonstrates how you can enable Location Display to display your current position on the map.",
+    "spatialReference": null,
+    "subInfo": 0,
+    "thumbnail": "thumbnail/thumbnail.png",
+    "title": "Display Device Location",
+    "type": "Native Application",
+    "typeKeywords": [
+        "API_QML",
+        "App",
+        "Application",
+        "AppStudio",
+        "Configuration",
+        "Native",
+        "qml"
+    ],
+    "url": null
+}
